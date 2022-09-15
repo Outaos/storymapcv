@@ -1,7 +1,7 @@
 Setting,Customize,Hints
 Storymap Info,,"For help, see tutorial in HandsOnDataViz.org"
 Storymap Title,<p>&nbsp;</p> Ostap Fedyshyn,
-Storymap Subtitle,"An interactive location-based CV<br><p>&nbsp;</p> Welcome to my website! <br> Here is where I collected some of the most important experiences  of my life mostly related to my work and education. <br> There is quite a lot of information, so feel free to scroll down to sections that are of relevance to you. <br> I hope this website will be useful. <p>&nbsp;</p>  <small>Scroll down <i class='fa fa-chevron-down'></i></small>","Add your subtitle, or delete that portion"
+Storymap Subtitle,"An interactive location-based CV<br><p>&nbsp;</p> Welcome to my website! <br> Here is a collection of important experiences  of my life mostly related to my work and education. <br> There is quite a lot of information, so feel free to scroll down to sections that are of relevance to you. <br> I hope this website will be useful. <p>&nbsp;</p>  <small>Scroll down <i class='fa fa-chevron-down'></i></small>","Add your subtitle, or delete that portion"
 Storymap Logo,media/location.png,Path to a logo image
 Google Analytics Tracking ID,,Sample format: UA-5488840-29
 Map Settings,,"For help, see tutorial in HandsOnDataViz.org"
